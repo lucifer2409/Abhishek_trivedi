@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me by mail i.e cr7abhisshek25@gmail.com
+- 📫 you can reach me by mail i.e cr7abhishek25@gmail.com
 
 <!---
 lucifer2409/lucifer2409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

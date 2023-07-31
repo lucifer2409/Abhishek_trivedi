@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @lucifer2409
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Abhishek Trivedi
+- 👀 I’m interested in Web Development , Sports , travelling etc.
+- 🌱 I’m currently learning React Js
+- 💞️ Like is beautiful and so am i.
+- ⚽️ My Passion is playing football.
+- 💼 My Profession is to code.
 - 📫 you can reach me by mail i.e trivedi.a@somaiya.edu
-
-<!---
-lucifer2409/lucifer2409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
